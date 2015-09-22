@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">True</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">About</string>
+    <string name="botao">So…</string>
+    <string name="action_share">Share</string>
+    <string name="action_rate">Rate us!</string>
+    <string name="share_phrase">Share this true</string>
+    <string name="error_open_market">Could not open Google Play, please install the Google Play app.</string>
+
+    <string-array name="frases">
+        <item>7 billion people in the world… and none of them asked for your opinion.</item>
+        <item>What goes around comes around, honey…</item>
+        <item>Subject: Tidal. Reaction: Pff.</item>
+        <item>I give 0 fucks to your opinion.</item>
+        <item>God doesn\'t care for your sexual life.</item>
+        <item>I got more important things than stay here listening you shit through your mouth.</item>
+        <item>Beatles didn\'t invent Rock \'n Roll.</item>
+        <item>The struggle is real.</item>
+        <item>Is not personal, is drag.</item>
+        <item>The Pop scene is not a monarchy, Madonna is not a queen, Britney is not a princess.</item>
+        <item>Opinions are like assholes: Some people use it to crap all over everything they see.</item>
+        <item>Trixie shouldn\'t have left.</item>
+        <item>You can only judge people from watching soap operas if you read an entire philosophy book today.</item>
+        <item>You have to love people despite the people.</item>
+        <item>Blue and black</item>
+        <item>White and gold</item>
+        <item>No one cares.</item>
+        <item>If you like Iggy Azaela: leave my app, now.</item>
+        <item>Stop it, just stop it!.</item>
+        <item>Honey, don\'t.</item>
+        <item>Stop trying to make your life happen. It\'s not gonna happen.</item>
+        <item>Do you even go here?</item>
+        <item>uhum, yeah, right.</item>
+        <item>\"I\'m a good person, but when i get angry… get out of the way\". Wow, you are so unique and different, congratulations, i\'m so scared.</item>
+        <item>Life is Destiny Child, you are Michelle</item>
+        <item>I don\'t envy you, I envy Beyoncé.</item>
+        <item>You are so pretty when no one is looking at you.</item>
+        <item>Life is underwear trying to go up your ass.</item>
+        <item>You are not better than anyone because you like rock \'n roll.</item>
+        <item>You are not better than anyone because you like jazz.</item>
+        <item>There is more to life than your pop diva.</item>
+        <item>You are not smart, you just have a internet connection.</item>
+        <item>Remember that embarrassing thing you did a long time ago? Well, everyone else remembers.</item>
+        <item>Stop liking your favourite band if it became famous.</item>
+        <item>She is under no obligation to like you.</item>
+        <item>You are the apotheosis of \"No one is perfect\".</item>
+        <item>No one cares about your new phone, stop it.</item>
+        <item>The struggle is real.</item>
+        <item>\"Am i the only one here who…\" No, you are not, you self-righteous shithead. </item>
+        <item>If my friends were as boring as yours I would also spend the whole evening looking at my phone instead of talking to them.</item>
+        <item>This app is shit.</item>
+        <item>Another illustrator making some sci-fi/realistic/hype/etc version of Disney princess, hooray ¬¬</item>
+        <item>Pizza is not a food group.</item>
+        <item>Cell phones are making people more anti-soc…zzzzzzzz</item>
+        <item>6 seasons and a movie</item>
+        <item>Being anti-SJ is so 2011.</item>
+        <item>Of course that what\'s inside that matters…</item>
+        <item>Have you heard the news? No one loves you.</item>
+        <item>Beyoncé should have won.</item>
+        <item>I\'ma let you finish, but everyone else is better.</item>
+        <item>Self-help?! If you can\'t help others imagine helping yourself, a tragic case of a sad little life.</item>
+        <item>Working 5 days a week to have 2 \"free\" days, what a Golden Age, hum?</item>
+        <item>Monday is not a bad day, is your work that sucks.</item>
+        <item>Thought one of your new years resolution was to stop others from treating you like trash. Well, guess i was wrong. </item>
+        <item>9gag?! what year are we in?! Is this the past?!</item>
+        <item>Everybody has a weakness. Yours is your life.</item>
+        <item>You deserve a high-five. in the face. with a chair.</item>
+        <item>Maybe the reason they didn\'t answer your message was because they were busy doing something better.</item>
+        <item>Maybe the reason they didn\'t answer your message was because they didn\'t see it, stop being paranoid.</item>
+        <item>Having a college degree doesn\'t make you a better person.</item>
+        <item>The one thing worst than gay people is straight people.</item>
+        <item>Wow, cool hum, congratulations.</item>
+        <item>Yeah, seems legit.</item>
+        <item>I don\'t know what is more sad, your self esteem or your bank account.</item>
+        <item>Diarrhea Apocalypse is an awesome name for a band. </item>
+        <item>Banks are evil. </item>
+        <item>Time don\'t give a shit to you.</item>
+        <item>You could… you know… stop being lazy and all.</item>
+        <item>\"Likes\" are different than love.</item>
+        <item>Being intelligent, but lazy, is such an easy excuse.</item>
+        <item>Motivational quotes are not philosophy.</item>
+        <item>Do you ever get tired of being so obvious</item>
+        <item>Love is not possession.</item>
+        <item>Such a lovely day for you to ruin it with your face.</item>
+        <item>Bad-mood is not an excuse to be a dick.</item>
+        <item>There is no problem with liking superficial things. There is a problem with being superficial.</item>
+        <item>If people could learn from their mistakes than you would be a Doctor.</item>
+        <item>Wanna know who asked about you? yes, no one!</item>
+        <item>Don\'t confuse a \"hi\" with me liking you. \'Cause i really don\'t.</item>
+        <item>Game Of Thrones: cable soap opera.</item>
+        <item>God have installed Baidu in you.</item>
+        <item>Katia shouldn\'t have left</item>
+        <item>People that justify being an asshole using zodiac signs…pff</item>
+        <item>Villains don\'t exist. Everyone thinks their are totally justified in their actions while being an ass</item>
+        <item>Glee\'s version is not better.</item>
+
+
+    </string-array>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_suggestion">Suggestion</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_hint">Insert your email</string>
+    <string name="suggestion_hint">Suggest a true...</string>
+    <string name="suggestion_sent_message">Suggestion sent! Now go on with you sad little life.</string>
+    <string name="error_sending_suggestion">There was a problem sending the suggestion. It was probably you, not us.</string>
+    <string name="please_wait">Please wait</string>
+    <string name="sending_suggestion">Sending suggestion</string>
+    <string name="check_connection_message">I bet you didn\'t pay the internet</string>
+    <string name="error_sugestion_blank">No one wants a blank suggestion ¬¬</string>
+    <string name="error_email_black">You can\'t even type your e-mail right?</string>
+    <string name="suggest_button">Suggest</string>
+    <string name="action_suggest">Suggest</string>
+    <string name="titulo_janela_novidade">New on this version (1.2)</string>
+    <string name="novidade_janela_texto">- New \"Suggest\" option in the menu. Suggest us new cool phrases, or not, whatever, like i care.\n\n
+        - New phrases.</string>
+</resources>

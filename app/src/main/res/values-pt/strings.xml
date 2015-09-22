@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Verdades</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">Sobre</string>
+    <string name="botao">Então</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="action_rate">Nos avalie!</string>
+    <string name="share_phrase">Compartilhar essa verdade</string>
+    <string name="error_open_market">Não foi possivel abrir o Google Play, Por favor instale o Google Play app.</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="email_hint">Digite seu email</string>
+    <string name="suggestion_hint">Sugira uma verdade...</string>
+    <string name="suggestion_sent_message">Sugestão enviada! Obrigado por trabalhar de graça pra gente.</string>
+    <string name="error_sending_suggestion">Houve um problema ao enviar sua sugestão. Provavelmente sua culpa, não nossa.</string>
+    <string name="please_wait">Aguarde</string>
+    <string name="sending_suggestion">Enviando sugestão</string>
+    <string name="check_connection_message">Aposto que não pagou a internet</string>
+    <string name="error_sugestion_blank">Ninguém quer uma sugestão em branco ¬¬</string>
+    <string name="error_email_black">Nem o seu email você sabe digitar direito?</string>
+    <string name="suggest_button">Sugerir</string>
+    <string name="action_suggest">Sugerir</string>
+    <string name="titulo_janela_novidade">Novidades nessa versão (1.2)</string>
+    <string name="novidade_janela_texto">- Nova opção \"Sugerir\" no menu. Faça sugestões. Ou não. Como se eu fosse me importar.\n\n
+    - Frases novas.</string>
+    <string name="title_activity_suggestion">Sugestão</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="frases">
+        <item>Existem 7 bilhões de pessoas no mundo, e nenhuma pediu sua opinião.</item>
+        <item>O mundo da voltas, queridinha…</item>
+        <item>Eu não sou obrigada.</item>
+        <item>Objeto: Tidal. Reação: Caguei.</item>
+        <item>Su opinião é tão importante pra mim…</item>
+        <item>Eu não tenho paciência pra quem ta começando.</item>
+        <item>Deus não se importa se você da o cu/buceta.</item>
+        <item>Tenho mais o que fazer do que escutar essa merda.</item>
+        <item>Beatles não inventaram o Rock.</item>
+        <item>A cena pop não é uma monarquia, Madonna não é rainha, Britney não é princesa.</item>
+        <item>Opinião é igual cu: tem gente que usa pra cagar tudo por onde passa.</item>
+        <item>Fala que arte contemporânea é uma merda, mas ta la lotando a fila da exposição.</item>
+        <item>Gisele esta cada vez mais rica. Ela é poderosíssima.</item>
+        <item>Trixie não deveria ter saido.</item>
+        <item>Só vale chamar o coleguinha de alienado por assistir novela se você tiver lido um livro inteiro de filosofia hoje.</item>
+        <item>É preciso amar as pessoas como se não houvesse as pessoas.</item>
+        <item>Azul e preto</item>
+        <item>Branco e dourado</item>
+        <item>Nínguem se importa.</item>
+        <item>Se você acha Iggy Azaela boa, sai agora do meu aplicativo e da minha vida.</item>
+        <item>Para, só para.</item>
+        <item>Você não ta no Power Rangers, você não tem inimigas.</item>
+        <item>Boyhood – nada acontece, igualzinho a sua vida.</item>
+        <item>Da o cu que é bom, nada.</item>
+        <item>Honey, don\'t.</item>
+        <item>3 pessoas não é meeting.</item>
+        <item>Stop trying to make your life happen. It\'s not gonna happen.</item>
+        <item>Do you even go here?</item>
+        <item>aham, ta ta.</item>
+        <item>\" Eu sou bonzinho(a), mas quando fico bravo… sai da frente\". Nossa, que pessoa diferente e única você é, ninguém mais no mundo é assim, parabéns.</item>
+        <item>No Destiny Child que é a vida, você é a Michelle.</item>
+        <item>Inveja eu tenho é da Beyoncé.</item>
+        <item>Bebe duas Smirnoff Ice e ja acha que ta \"Causando na balada\".</item>
+        <item>Você é muito bonitx quando não tem ninguém olhando pra sua cara.</item>
+        <item>A vida é uma calcinha enfiada no cu.</item>
+        <item>Você não é melhor do que ninguém por gostar de rock.</item>
+        <item>Você não é melhor do que ninguém por gostar de jazz.</item>
+        <item>Você não é melhor do que ninguém por gostar de mpb.</item>
+        <item>Existe vida além da sua diva do pop.</item>
+        <item>Você não é inteligente, você simplesmente tem acesso a internet.</item>
+        <item>Sabe aquela coisa embaraçosa que você fez aquela vez? Todo mundo ainda se lembra.</item>
+        <item>Pare de gostar da sua banda preferida caso ela fique famosa.</item>
+        <item>Ela não é obrigada a gostar de você.</item>
+        <item>Você é a apoteose da frase \"Ninguém é perfeito\"</item>
+        <item>Ninguém se importa com o seu celular novo, para.</item>
+        <item>Se meus amigos fossem chatos como os seus, eu também ficaria a tarde inteira olhando pro celular ao invés de falar com eles.</item>
+        <item>Esse aplicativo é uma merda.</item>
+        <item>Mais um desenhista fazendo versões realistas/hype/sci-fi/etc de princesas da Disney, viva… ¬¬</item>
+        <item>Ai, que vontadinha de morrer.</item>
+        <item>E ae, você curte trabalhar pra outra pessoa ficar rica?</item>
+        <item>Interpretação de texto. Ta faltando.</item>
+        <item>Muita gente gastando muita energia pra defender BBB. calma galera, até vocês sabem que o programa não é bom, relaxa.</item>
+        <item>Celulares estão deixando as pessoas mais anti-soci… zzzzzzzz</item>
+        <item>Falar merda sobre minorias é tão 4 anos atrás. Ta na hora de virar gente de verdade.</item>
+        <item>A Beyoncé devia ter ganho.</item>
+        <item>Auto-ajuda?! Miga, se você não consegue ajudar os outros imagina ajudar a si mesma que é um caso perdido.</item>
+        <item>Trabalhando 5 dias pra ter 2 dias \"Livres\", vidão heim.</item>
+        <item>Segunda-feira não é um dia ruim, seu emprego que é um saco.</item>
+        <item>Pensei que sua resolução de ano novo era deixar de ser trouxa.</item>
+        <item>9gag?! Miga, que ano a gente ta?!</item>
+        <item>Todo mundo tem uma fraqueza, no seu caso é a sua vida.</item>
+        <item>Gente que merece um abraço. na cara. com uma cadeira.</item>
+        <item>As vezes não responderam a mensagem pra você porque tinham mais o que fazer.</item>
+        <item>As vezes não responderam a mensagem pra você porque não viram a mensagem, deixa de ser paranóica.</item>
+        <item>É, não ta fácil pra ninguém. </item>
+        <item>E ae, ja disperdiçou sua vida hoje?</item>
+        <item>Assistir ao Netflix o dia inteiro não é um cargo que você pode por no seu currículo.</item>
+        <item>Lembra aquela vez que todo mundo gostou de Black Keys durante 2 meses e depois nunca mais comentamos sobre o assunto?</item>
+        <item>Ter ensino superior não te faz uma pessoa melhor.</item>
+        <item>Pior que gay só hétero mesmo.</item>
+        <item>Parece verídico heim.</item>
+        <item>Nossa Fera, super legal.</item>
+        <item>Não sei o que é mais triste, sua auto-estima ou sua conta bancária.</item>
+        <item>Menos, bem menos</item>
+        <item>Diarréia Explosiva é um bom nome pra uma banda.</item>
+        <item>\"Likes\" \ \"Curtir\" não é amor.</item>
+        <item>Meo, você ta com ciúmes porque deram \"like\" no comentário do(a) seu(sua) namorado(a)?! Vai num psicólogo resolver esse rolê, porque não ta dando.</item>
+        <item>\"Sou inteligente, mas preguiçoso\" é uma desculpa muito fácil.</item>
+        <item>Citação motivacional não é filosofia.</item>
+        <item>Amor não é posse.</item>
+        <item>Você não se cança de ser tão óbvia?</item>
+        <item>Um dia tão lindo pra você arruinar com a sua cara.</item>
+        <item>Mau-humor não é desculpa pra ser escroto</item>
+        <item>Pode pedir gole de yakult sim.</item>
+        <item>Nenhum problema em gostar de coisas superficiais. Alguns problemas em ser uma pessoa superficial.</item>
+        <item>Se desse pra aprender com erros você ja teria um doutorado S2.</item>
+        <item>Beringela: Maldade em forma de alimento.</item>
+        <item>Sabe quem perguntou por você? Isso mesmo… ninguém!</item>
+        <item>O Capeta mora dentro de um banco.</item>
+        <item>Não confunda um "oi" com um "eu vou com a sua cara", porque definitivamente eu não vou.</item>
+        <item>Dá palpite na vida alheia mas não da seta no trânsito</item>
+        <item>Game Of Thrones: novela da TV paga.</item>
+        <item>Tomorrowland é a cracolandia de rico.</item>
+        <item>Deus instalou o Baidu em você.</item>
+        <item>A Katia não devia ter saído</item>
+        <item>Uma tristeza: Machinho preconceituoso pagando de mordeninho mente aberta.</item>
+        <item>Uma preguiça: gente rica</item>
+        <item>Gente que justifica ser escroto usando signos…pff</item>
+        <item>Vilões não existem. Todo mundo se acha correto enquanto faz escrotice.</item>
+        <item>A versão do Glee não é melhor.</item>
+        <item>Se a pessoa não quer sair de casa, não fique enchendo o saco. Ta carente adote um cachorro.</item>
+
+    </string-array>
+</resources>

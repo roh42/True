@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ff424242"
+                android:paddingTop="0dp"
+                tools:context=".FunFactsActivity"
+                android:id="@+id/layout_application"
+    >
+
+    <LinearLayout
+        android:id="@+id/layout_toolbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout_toolbar"
+        android:background="#ff424242"
+        android:layout_above="@+id/suggestButton">
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/rostinhos01"
+            android:paddingTop="20dp"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:paddingTop="100dp"
+            android:layout_marginLeft="150dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/suggestion_email"
+            android:hint="@string/email_hint"
+            app:met_floatingLabelTextColor="@android:color/white"
+            app:met_floatingLabel="highlight"
+            app:met_textColorHint="@android:color/white"
+            app:met_textColor="@android:color/white"
+            app:met_baseColor="#FFFF0064"
+            app:met_primaryColor="@android:color/white"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/imageView"
+            android:textSize="24sp"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_marginLeft="150dp"
+            android:paddingTop="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/suggestion_txt"
+            android:hint="@string/suggestion_hint"
+            android:textColor="@android:color/white"
+            app:met_floatingLabelTextColor="@android:color/white"
+            app:met_floatingLabel="highlight"
+            app:met_textColorHint="@android:color/white"
+            app:met_textColor="@android:color/white"
+            app:met_baseColor="#FFFF0064"
+            app:met_primaryColor="@android:color/white"
+            app:met_maxCharacters="150"
+            android:maxLength="150"
+            android:gravity="center"
+            android:layout_below="@+id/suggestion_email"
+            android:layout_centerHorizontal="true"
+            android:textSize="24sp"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/suggestButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:background="#b4C2185B"
+        android:elevation="0dp"
+        android:text="@string/suggest_button"
+        android:textColor="#ffffffff"
+        android:textSize="32sp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"/>
+
+</RelativeLayout>
